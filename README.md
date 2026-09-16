@@ -4,8 +4,8 @@
 This project explores the application of Artificial Intelligence in the banking sector, focusing on fraud detection systems and AI-powered customer service solutions. The research examines how major banks like HDFC, ICICI, and SBI are implementing AI technologies to improve security, enhance customer experience, and optimize operational efficiency.
 
 ## Student Information
-- **Name:** [Your Name]
-- **Course/Section:** [To be filled]
+- **Name:** [Akash Singh]
+- **Course/Section:** [Introduction to AIML ]
 - **Date:** September 17, 2026
 
 ## 📁 Project Structure
@@ -159,7 +159,7 @@ Once you create your repository, your link will look like:
 ```
 https://github.com/yourusername/ai-banking-research-project
 ```
-Replace `yourusername` with your actual GitHub username.
+Replace `Akash Singh` with your actual GitHub username.
 
 ---
 *Project Documentation Completed: September 17, 2026*  
