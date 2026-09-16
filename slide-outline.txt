@@ -1,0 +1,81 @@
+Presentation Outline: AI in Banking - Fraud Detection and Customer Service
+
+Slide 1: Title Slide
+- Project Title: AI Implementation in Indian Banking: Enhancing Security and Customer Experience
+- Student Name: [Your Name]
+- Roll Number: [To be filled]
+- Course/Section: [To be filled]
+- Date: September 17, 2026
+
+Slide 2: Company/Industry Overview
+- Brief introduction to Indian banking sector
+- Focus on three major banks: HDFC Bank, ICICI Bank, State Bank of India (SBI)
+- Market positions and customer base statistics
+- Digital transformation priorities in Indian banking
+
+Slide 3: Business Problem
+- Rising digital payment fraud challenges
+- Customer service scalability issues with massive customer bases
+- Credit access gap for underserved segments
+- Limitations of traditional rule-based systems
+- Need for real-time, adaptive solutions
+
+Slide 4: Data Required
+- Transaction metadata (amount, time, location, merchant info)
+- Device fingerprinting and geolocation data
+- User behavioral patterns and historical transaction data
+- Customer service query logs and interaction histories
+- Alternative data sources for credit scoring (utility payments, mobile usage)
+- Fraud labels and outcomes for model training
+
+Slide 5: AI/ML Solution Implemented
+- Overview of AI applications in fraud detection and customer service
+- Specific solutions: HDFC's Eva and fraud monitoring, ICICI's iPal and anti-phishing, SBI's SIA and transaction screening
+- Technical approaches: ensemble ML models, NLP, graph analytics, anomaly detection
+- Implementation architecture and integration points
+
+Slide 6: How the AI Solution Works
+- Fraud detection workflow diagram (data collection → feature engineering → real-time scoring → decision engine → feedback loop)
+- Customer service AI workflow (query intake → NLP processing → knowledge base search → response generation → confidence check → learning loop)
+- Key technologies used at each stage
+- Real-time processing requirements and latency considerations
+
+Slide 7: Business Impact - Quantitative Results
+- Fraud reduction metrics: 40% reduction (HDFC), ₹300-400 crores monthly prevention (ICICI), 35% reduction (SBI)
+- Customer service improvements: 35% call center load reduction (HDFC), 28% decrease in basic inquiries (ICICI), 40% faster handling (SBI)
+- Transaction volumes processed: Eva (~875K/day), iPal (9.6M annual), SIA (85M annual)
+- Cost avoidance and operational efficiency gains
+
+Slide 8: Business Impact - Qualitative Benefits
+- Enhanced customer experience (24/7 support, instant responses)
+- Improved risk management (adaptive fraud detection)
+- Operational scalability (handling growth without linear cost increase)
+- Data-driven insights (customer behavior analytics)
+- Employee satisfaction (focus on complex value-added tasks)
+
+Slide 9: Risks, Ethics & Responsible AI
+- Technical risks: model drift, false positives/negatives, integration complexity
+- Ethical risks: bias in credit scoring, privacy concerns, digital exclusion
+- Regulatory risks: model governance, transparency requirements, data localization
+- Responsible AI practices: human oversight, transparent communication, continuous monitoring, customer feedback loops, ethical frameworks
+
+Slide 10: AI Tools & Prompts Used in Research
+- Overview of AI tools utilized: Claude, ChatGPT, Perplexity, Gemini
+- Examples of prompt evolution:
+  * Basic: "Tell me about AI in banking fraud detection"
+  * Improved: "Act as a financial risk analyst. Analyze three specific AI-based fraud detection systems..."
+- Impact of prompt refinement on research quality and verification
+
+Slide 11: Recommendations & Conclusion
+- Strategic recommendations for implementation success
+- Risk management best practices
+- Expected future developments in banking AI
+- Final conclusion on AI's transformative role in Indian banking
+
+Slide 12: Learning Reflection, References & GitHub Repository
+- Three key learnings from the project
+- Insights on applying AI/ML to real business problems
+- Understanding of prompt engineering and AI-assisted research
+- Example of AI-generated information requiring correction
+- How prompt refinement improved research outcomes
+- GitHub Repository Link: [To be filled]
